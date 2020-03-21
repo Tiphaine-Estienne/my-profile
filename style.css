@@ -1,0 +1,65 @@
+/*Colors and fronts */
+
+ul{
+	color: #ff5151
+
+	;
+}
+
+body{
+
+	background: #ededed;
+	}
+
+h2 {
+	color:#ff5151;
+	font-family: 'Acme', sans-serif;
+	font-weight: 5px;
+	letter-spacing: 0.5px;
+	font-size :20px;
+}
+h1{
+		color:#ff5151;
+	font-family: 'Acme', sans-serif;
+	font-weight: 10px;
+	letter-spacing: 0.5px;
+	font-size :30px;
+}
+
+
+p{
+	color: #512b58;
+	font-weight: lighter;
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 15px;
+
+	
+;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color:#b21f66;
+	
+	
+	;
+
+
+}
+a:hover {
+	color:#ff5151;
+}
+
+img-circle{
+	border-radius: 50%
+}
+
+btn-blue{background-color: black
+color: white}
+
+]
+
+li{
+	list-style: none;
+}
